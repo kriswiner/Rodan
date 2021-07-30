@@ -5,6 +5,6 @@ The board can be powered via USB and there is a switch-enabled 300 mA MCP1812 LD
 
 The sensors include the VEML6040 RGBW light sensor, LPS22HB barometer, HDC2010 humidity and temperature sensor, BMA400 accelerometer for motion detection, and the CCS811 for eCO2 and TVOC estimation. There is also an LC709204 battery fuel gauge for battery voltage and percent remaining charge monitoring, etc..  
 
-![Rodan]()
+![Rodan](https://user-images.githubusercontent.com/6698410/127719506-94157222-1675-4999-b114-421aa7fc567d.jpg)
 
 See [Hackaday](https://hackaday.io/project/19649-stm32l4-sensor-tile) for more.
