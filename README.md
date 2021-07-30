@@ -8,3 +8,4 @@ The sensors include the VEML6040 RGBW light sensor, LPS22HB barometer, HDC2010 h
 ![Rodan](https://user-images.githubusercontent.com/6698410/127719506-94157222-1675-4999-b114-421aa7fc567d.jpg)
 
 See [Hackaday](https://hackaday.io/project/19649-stm32l4-sensor-tile) for more.
+Pcb [design](https://oshpark.com/shared_projects/23LSLZPF) is open-source and available on OSH Park shared space.
